@@ -1,4 +1,4 @@
-# GreenCambridge
+# Green Cambrodge Canopy Crew Tree Planting Program
 
 ##This map shows all completed tree plantings by the Canopy Crew program, which is part of Green Cambridge. Since January 2023, the Canopy Crew program has been planting trees as part of a contract for the Cambridge Redevelopment Authority (CRA), focusing on East Cambridge. These plantings aim to be within a 15-minute walking radius of a new development site where trees were removed.
 
